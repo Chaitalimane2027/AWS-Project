@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "book": [
+    {
+      "id": 1,
+      "bookName": "The Harry Potter",
+      "price": "1000",
+      "status": "Available"
+    },
+    {
+      "id": 2,
+      "bookName": "The Secret",
+      "price": "1500",
+      "status": "Out Of Stock"
+    },
+    {
+      "id": 3,
+      "bookName": "The Sherlok Holmes",
+      "price": "2000",
+      "status": "Pending"
+    }
+  ]
+}

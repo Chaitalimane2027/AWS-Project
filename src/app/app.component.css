@@ -1,0 +1,27 @@
+.example-spacer {
+    flex: 1 1 auto;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+  }
+  table {
+    width: 90%;
+    margin: auto 25px 30px 65px;
+  }
+  .mat-elevation-z8{
+    align-items: center;
+    margin: 20px 20px 20px 75px;
+   }
+   th.mat-header-cell{
+    font-weight:bolder;
+    font-size: medium;
+    color: black;
+    padding: 1px;
+  }
+  th.actions{
+    text-align: center;
+   }
+  td.mat-cell{
+    padding-right: 30px;
+   }
+  
